@@ -4,6 +4,6 @@
   </head>
   <body>
     <h1>PDF Example</h1>
-    <p>Open a PDF file <a href="C:/Users/justi/OneDrive/Desktop/Web%20Portfolio/images/JustinJohnsonMainResume2021web.pdf">example</a>.</p>
+    <p>Open a PDF file <a href="https://github.com/jjustin1/jjustin1.githubresume.io/blob/main/JustinJohnsonMainResume2021.pdf">example</a>.</p>
   </body>
 </html>
