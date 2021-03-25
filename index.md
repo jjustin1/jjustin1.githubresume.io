@@ -1,9 +1,8 @@
 <html>
   <head>
-    <title>Title of the document</title>
   </head>
   <body>
-    <h1>PDF Example</h1>
-    <p>Open a PDF file <a href="https://github.com/jjustin1/jjustin1.githubresume.io/blob/main/JustinJohnsonMainResume2021.pdf">example</a>.</p>
+    <h1>PDF To View My Resume, Click on the Link Below</h1>
+    <p>Open a PDF file <a href="https://github.com/jjustin1/jjustin1.githubresume.io/blob/main/JustinJohnsonMainResume2021.pdf">Justin Johnson Resume 2021</a>.</p>
   </body>
 </html>
